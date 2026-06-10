@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portofoliu Web</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <img src="assets/profile.jpg" alt="Profil" class="profile-img">
+
+    <h1>Nuță Constantin-Marius</h1>
+
+    <p class="role">
+      Frontend Developer | JavaScript | React
+    </p>
+
+    <p class="description">
+      Pasionat de dezvoltare web și aplicații moderne.
+    </p>
+  </header>
+
+  <section class="section">
+    <h2>Experiență</h2>
+
+    <div class="card">
+      <h3>Frontend Developer</h3>
+      <p>Compania X • 2022 - 2024</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Educație</h2>
+
+    <div class="card">
+      <h3>ULBS - Facultatea de Inginerie - Calculatoare</h3>
+      <p>2024-în curs</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Proiecte GitHub</h2>
+<div class="controls">
+
+  <input
+    type="text"
+    id="search-input"
+    placeholder="Caută proiect..."
+  >
+
+  <select id="language-filter">
+    <option value="all">Toate limbajele</option>
+  </select>
+
+  <select id="sort-select">
+    <option value="updated">Ordonare: Ultima actualizare</option>
+    <option value="stars">Ordonare: Stele</option>
+  </select>
+
+</div>
+
+<div id="loading" class="loading">
+  Loading projects...
+</div>
+
+<div id="error-message" class="error-message"></div>
+
+    <div id="projects-container" class="projects-grid">
+    </div>
+    <div class="load-more-container">
+      <button id="load-more-btn" class="load-more hidden">Încarcă mai multe</button>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": "Site personal realizat cu HTML CSS JavaScript",
+    "language": "JavaScript",
+    "stargazers_count": 10,
+    "forks_count": 2,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Task App",
+    "description": "Aplicatie TODO moderna",
+    "language": "React",
+    "stargazers_count": 5,
+    "forks_count": 1,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Weather Dashboard",
+    "description": "Aplicatie meteo cu API integration",
+    "language": "JavaScript",
+    "stargazers_count": 18,
+    "forks_count": 4,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Blog Platform",
+    "description": "Platforma de blogging full-stack",
+    "language": "TypeScript",
+    "stargazers_count": 25,
+    "forks_count": 7,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "E-commerce Store",
+    "description": "Magazin online cu cos de cumparaturi",
+    "language": "React",
+    "stargazers_count": 32,
+    "forks_count": 10,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Chat App",
+    "description": "Aplicatie de chat in timp real",
+    "language": "Node.js",
+    "stargazers_count": 40,
+    "forks_count": 12,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Fitness Tracker",
+    "description": "Aplicatie pentru monitorizarea antrenamentelor",
+    "language": "Flutter",
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Recipe Finder",
+    "description": "Aplicatie pentru cautare retete culinare",
+    "language": "Vue",
+    "stargazers_count": 9,
+    "forks_count": 2,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Expense Tracker",
+    "description": "Aplicatie pentru gestionarea cheltuielilor",
+    "language": "Python",
+    "stargazers_count": 22,
+    "forks_count": 6,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "AI Image Generator",
+    "description": "Generator de imagini bazat pe AI",
+    "language": "Python",
+    "stargazers_count": 55,
+    "forks_count": 18,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Music Player",
+    "description": "Aplicatie de redare muzica",
+    "language": "JavaScript",
+    "stargazers_count": 12,
+    "forks_count": 3,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Travel Blog",
+    "description": "Blog de calatorii cu poze si povesti",
+    "language": "Gatsby",
+    "stargazers_count": 8,
+    "forks_count": 1,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Language Learning App",
+    "description": "Aplicatie pentru invatarea limbilor straine",
+    "language": "React Native",
+    "stargazers_count": 30,
+    "forks_count": 5,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Stock Market Dashboard",
+    "description": "Dashboard pentru monitorizarea pietei de capital",
+    "language": "Angular",
+    "stargazers_count": 20,
+    "forks_count": 4,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Virtual Reality Game",
+    "description": "Joc VR creat cu Unity",
+    "language": "C#",
+    "stargazers_count": 45,
+    "forks_count": 10,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Personal Finance Manager",
+    "description": "Aplicatie pentru gestionarea finantelor personale",
+    "language": "Django",
+    "stargazers_count": 28,
+    "forks_count": 6,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Online Code Editor",
+    "description": "Editor de cod online cu suport pentru multiple limbaje",
+    "language": "JavaScript",
+    "stargazers_count": 35,
+    "forks_count": 8,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Social Media Dashboard",
+    "description": "Dashboard pentru monitorizarea activitatii pe retelele sociale",
+    "language": "React",
+    "stargazers_count": 18,
+    "forks_count": 4,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Fitness App",
+    "description": "Aplicatie pentru monitorizarea antrenamentelor si a progresului fizic",
+    "language": "Flutter",
+    "stargazers_count": 25,
+    "forks_count": 5,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "E-commerce API",
+    "description": "API pentru gestionarea unui magazin online",
+    "language": "Node.js",
+    "stargazers_count": 40,
+    "forks_count": 12,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Weather App",
+    "description": "Aplicatie meteo cu date in timp real",
+    "language": "Vue.js",
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Blog Platform",
+    "description": "Platforma de blogging cu suport pentru markdown",
+    "language": "Ruby on Rails",
+    "stargazers_count": 22,
+    "forks_count": 6,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "AI Chatbot",
+    "description": "Chatbot bazat pe AI pentru asistenta clienti",
+    "language": "Python",
+    "stargazers_count": 50,
+    "forks_count": 15,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Recipe App",
+    "description": "Aplicatie pentru cautarea si salvarea retetelor culinare",
+    "language": "React Native",
+    "stargazers_count": 18,
+    "forks_count": 4,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Task Manager",
+    "description": "Aplicatie pentru gestionarea sarcinilor zilnice",
+    "language": "Angular",
+    "stargazers_count": 12,
+    "forks_count": 2,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Virtual Reality Experience",
+    "description": "Experienta VR interactiva creata cu Unity",
+    "language": "C#",
+    "stargazers_count": 30,
+    "forks_count": 8,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Personal Budget App",
+    "description": "Aplicatie pentru gestionarea bugetului personal",
+    "language": "Django",
+    "stargazers_count": 20,
+    "forks_count": 5,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Online Code Playground",
+    "description": "Platforma online pentru testarea codului in diferite limbaje de programare",
+    "language": "JavaScript",
+    "stargazers_count": 25,
+    "forks_count": 7,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Social Media Analytics Dashboard",
+    "description": "Dashboard pentru analiza datelor de pe retelele sociale",
+    "language": "React",
+    "stargazers_count": 18,
+    "forks_count": 4,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Fitness Tracker App",
+    "description": "Aplicatie pentru monitorizarea activitatilor fizice si a progresului in fitness",
+    "language": "Flutter",
+    "stargazers_count": 22,
+    "forks_count": 5,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "E-commerce Backend API",
+    "description": "API backend pentru gestionarea unui magazin online, inclusiv produse, comenzi si utilizatori",
+    "language": "Node.js",
+    "stargazers_count": 35,
+    "forks_count": 10,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Weather Forecast App",
+    "description": "Aplicatie pentru afisarea prognozei meteo pe baza datelor in timp real",
+    "language": "Vue.js",
+    "stargazers_count": 15,
+    "forks_count": 3,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "Blogging Platform",
+    "description": "Platforma de blogging cu suport pentru markdown si categorii personalizate",
+    "language": "Ruby on Rails",
+    "stargazers_count": 20,
+    "forks_count": 6,
+    "html_url": "https://github.com/"
+  },
+  {
+    "name": "AI Customer Support Chatbot",
+    "description": "Chatbot bazat pe AI pentru asistenta clienti in timp real",
+    "language": "Python",
+    "stargazers_count": 50,
+    "forks_count": 15,
+    "html_url": "https://github.com/"
+  }
+]
